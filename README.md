@@ -15,8 +15,7 @@ Reference: [Github](https://github.com/brightmart/nlp_chinese_corpus)
 Format: JSON file. 
 
 Example: It contains 1,000,000+ items. 
-<pre>
-<code>
+```
 {
     "id": "53", 
     "url": "https://zh.wikipedia.org/wiki?curid=53", 
@@ -30,8 +29,7 @@ Example: It contains 1,000,000+ items.
     "title": "xxx", 
     "text": "xxx..."
 }
-</code>
-</pre>
+```
 
 
 ## Chinese News
@@ -43,8 +41,7 @@ Reference: [Github](https://github.com/brightmart/nlp_chinese_corpus)
 Format: JSON file. 
 
 Example: It contains 2,500,000+ items, like
-<pre>
-<code>
+```
 {
     "news_id": "610130831", 
     "keywords": "导游，门票",
@@ -58,8 +55,7 @@ Example: It contains 2,500,000+ items, like
     "title": "xxxxxxx", 
     "desc": "..."
 }
-</code>
-</pre>
+```
 
 
 ## Dictionary
