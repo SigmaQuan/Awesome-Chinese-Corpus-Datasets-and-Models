@@ -137,7 +137,7 @@ It contains 14032 Xiehouyu which like
 
 ### Machine reading comprehension datasets
 
-#### Chinese Machine Reading Comprehension (CMRC) 2018 Public Dataset
+#### CMRC-2018: Chinese Machine Reading Comprehension (CMRC) 2018 Public Dataset
 
 [The Second Evaluation Workshop on Chinese Machine Reading Comprehension](https://hfl-rc.github.io/cmrc2018) was successfully ended. The evaluation committee had decided to continue to accept submissions to further test their systems on the hidden test set and challenge set. 
 
@@ -291,6 +291,12 @@ Example: It contains 5,200,000 pairs, like
 </pre>
 
 ## Models
+
+### Chinese-BERT-wwm
+
+State of the art results on 
+Code: [Github](https://github.com/ymcui/Chinese-BERT-wwm)
+
 
 
 
