@@ -4,9 +4,9 @@ This tutorial is aimed to collect corpus, datasets, and models for Chinese infor
 
 [TOC] Outline
 
-## Corpus
+## 1. Corpus
 
-### Wikipedia Chinese
+### 1.1 Wikipedia Chinese
 
 Download address: [BaiduNets](https://pan.baidu.com/s/1uPMlIY3vhusdnhAge318TA)
 
@@ -32,7 +32,7 @@ Example: It contains 1,000,000+ items.
 ```
 
 
-## Chinese News
+## 1.2 Chinese News
 
 Download address: [BaiduNets](https://drive.google.com/file/d/1TMKu1FpTr6kcjWXWlQHX7YJsMfhhcVKp/view?usp=sharing)
 
@@ -58,9 +58,9 @@ Example: It contains 2,500,000+ items, like
 ```
 
 
-## Dictionary
+## 2 Dictionary
 
-### China Xinhua dictionary
+### 2.1 China Xinhua dictionary
 
 This dictionary includes 14032 Xiehouyu, 31648 idioms, 264434 words, 16142 Chinese characters.
 
@@ -133,11 +133,11 @@ It contains 14032 Xiehouyu which like
 </code>
 </pre>
 
-## Datasets
+## 3. Datasets
 
-### Machine reading comprehension datasets
+### 3.1 Machine reading comprehension datasets
 
-#### CMRC-2018: Chinese Machine Reading Comprehension (CMRC) 2018 Public Dataset
+#### 3.1.1 CMRC-2018: Chinese Machine Reading Comprehension (CMRC) 2018 Public Dataset
 
 [The Second Evaluation Workshop on Chinese Machine Reading Comprehension](https://hfl-rc.github.io/cmrc2018) was successfully ended. The evaluation committee had decided to continue to accept submissions to further test their systems on the hidden test set and challenge set. 
 
@@ -183,9 +183,9 @@ uuid[0:8]	|name	|summary	|data_size	|state	|description
 
 
 
-### Question-asnwering datasets
+### 3.2 Question-asnwering datasets
 
-#### Baike
+#### 3.2.1 Baike
 
 Download address: [BaiduNets](https://pan.baidu.com/s/12TCEwC_Q3He65HtPKN17cA) 
 (Extract code can be find in the following references.)
@@ -226,7 +226,7 @@ Example: It contains 1,500,000 questions, like
 
 This dataset can also be used for training word-embeddings.
 
-#### Web question-answering
+#### 3.2.2 Web question-answering
 
 Download address: [Google Disk](https://drive.google.com/open?id=1u2yW_XohbYL2YAK6Bzc5XrngHstQTf0v)
 
@@ -266,9 +266,9 @@ Example: It contains 4,100,000 questions, like
 
 This dataset can also be used for training word-embeddings.
 
-### Translation datasets
+### 3.3 Translation datasets
 
-#### English <> Chinese translation
+#### 3.3.1 English <> Chinese translation
 
 Download address: [Google Disk](https://drive.google.com/open?id=1EX8eE5YWBxCaohBO8Fh4e2j3b9C2bTVQ)
 
@@ -290,11 +290,15 @@ Example: It contains 5,200,000 pairs, like
 </code>
 </pre>
 
-## Models
 
-### Chinese-BERT-wwm
+### 3.4 Translation datasets
 
-State of the art results on 
+## 4. Models
+
+### 4.1 Chinese-BERT-wwm
+
+State of the art results on [CMRC-2018]()
+
 Code: [Github](https://github.com/ymcui/Chinese-BERT-wwm)
 
 
